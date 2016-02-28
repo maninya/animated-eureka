@@ -20,6 +20,7 @@ theme = "hugo-minimalist-theme"
     contentdir = "content"
     layoutdir = "layouts"
     publishdir = "public"
+    canonifyurls = true
 
     # Enable gogle analytics by entering your tracking code
     google_analytics = ""
