@@ -1,6 +1,6 @@
-baseurl = "https://github.com/maninya/animated-eureka"
+baseurl = "https://maninya.github.io"
 languageCode = "en-us"
-title = "John Doe's blog"
+title = "Maninya's blog"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
